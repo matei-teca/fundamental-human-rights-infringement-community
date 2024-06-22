@@ -1,0 +1,86 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a:hover {
+  color: #61dafb;
+}
+
+.hero {
+  background: linear-gradient(135deg, #6a89cc, #b8e994);
+  color: white;
+  padding: 50px 20px;
+}
+
+.hero h2, .hero p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.hero-button {
+  background-color: #ff6b6b;
+  color: white;
+}
+
+.hero-button:hover {
+  background-color: #ff4d4d;
+}
+
+.mission, .card {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.join-button {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.join-button:hover {
+  background-color: #45a049;
+}
+
+.section {
+  padding: 40px 20px;
+}
+
+footer {
+  background-color: #282c34;
+  padding: 30px 20px;
+  font-size: 1.2em;
+  color: white;
+}
+
+.read-the-docs a {
+  color: #61dafb;
+}
