@@ -11,7 +11,7 @@ function Home() {
       <section className="mission">
         <h2>Our Mission</h2>
         <p>
-          To advocate for and protect the fundamental human rights of all individuals, ensuring equality, justice, and dignity for everyone.
+          To raise awareness of the univerdal human rights of all individuals. Especially the fundamental rights regarding freedom from inhumane, cruel, or degrading suffering.
         </p>
       </section>
       <section className="card">
